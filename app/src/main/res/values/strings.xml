@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ObHavo</string>
+    <string name="logo">Погода в вашем городе</string>
+    <string name="hint_ucer_field">Введите город</string>
+    <string name="hint_ucer_field1">Поиск</string>
+    <string name="text_if">Введите текст</string>
+    <string name="text_er_name">Неверное название города!</string>
+    <string name="text_er_rep">Повторите попытку!</string>
+    <string name="ucer_name">Ibrohim inc.</string>
+    <string name="name"></string>
+</resources>
